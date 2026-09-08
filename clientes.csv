@@ -1,2 +1,6 @@
-id, nombre_cliente, correo
-1, Andrea, andrea@correo.com
+
+id, nombre_cliente, correo, nro_telf 
+1, Andrea, andrea@correo.com, 77712345
+
+
+
